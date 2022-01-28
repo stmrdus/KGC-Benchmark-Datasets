@@ -1,0 +1,3 @@
+burma	dependent	uk
+indonesia	students	usa
+india	students	usa

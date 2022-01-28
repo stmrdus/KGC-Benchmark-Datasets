@@ -1,0 +1,7 @@
+/m/06f32	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+/m/06c1y	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+/m/01mjq	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+/m/0jgd	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+/m/06mkj	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+/m/06qd3	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+/m/0d060g	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71

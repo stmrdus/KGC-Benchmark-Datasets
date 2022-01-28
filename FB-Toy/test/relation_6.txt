@@ -1,0 +1,4 @@
+/m/018ygt	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/0dvmd	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/014zcr	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/0bxtg	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf

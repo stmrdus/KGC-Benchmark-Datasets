@@ -1,0 +1,9 @@
+/m/017jd9	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/015fr
+/m/017gl1	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/0hzlz
+/m/017gl1	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/06t2t
+/m/017gl1	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/0345h
+/m/017gl1	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/03rj0
+/m/017jd9	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/0h7x
+/m/017gl1	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/01p1v
+/m/017gl1	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/06t8v
+/m/017gl1	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/01pj7

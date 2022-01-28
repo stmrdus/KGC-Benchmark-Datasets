@@ -1,0 +1,2 @@
+israel	timesincewar	jordan
+cuba	timesincewar	usa

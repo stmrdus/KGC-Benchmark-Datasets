@@ -1,0 +1,55 @@
+accusation;Irreflexive,Symmetric
+aidenemy;Irreflexive,Antisymmetric
+attackembassy;Irreflexive,Antisymmetric
+blockpositionindex;Irreflexive,Symmetric
+booktranslations;Irreflexive
+boycottembargo;Irreflexive,Symmetric
+commonbloc0;Irreflexive,Symmetric
+commonbloc1;Irreflexive,Symmetric
+commonbloc2;Irreflexive,Symmetric,Transitive,Partial Equivalence
+conferences;Irreflexive,Symmetric,Transitive,Partial Equivalence
+dependent;Irreflexive,Antisymmetric
+duration;Irreflexive,Symmetric
+economicaid;Irreflexive,Antisymmetric
+eemigrants;Irreflexive
+embassy;Irreflexive,Symmetric,Transitive,Partial Equivalence
+emigrants3;Irreflexive
+expeldiplomats;Irreflexive,Antisymmetric
+exportbooks;Irreflexive
+exports3;Irreflexive
+independence;Irreflexive,Symmetric,Transitive,Partial Equivalence
+intergovorgs;Irreflexive,Symmetric,Transitive,Partial Equivalence
+intergovorgs3;Irreflexive,Symmetric,Transitive,Partial Equivalence
+lostterritory;Irreflexive,Antisymmetric
+militaryactions;Irreflexive,Symmetric
+militaryalliance;Irreflexive,Symmetric
+negativebehavior;Irreflexive,Symmetric
+negativecomm;Irreflexive
+ngo;Irreflexive,Symmetric,Transitive,Partial Equivalence
+ngoorgs3;Irreflexive,Transitive
+nonviolentbehavior;Irreflexive
+officialvisits;Irreflexive
+pprotests;Irreflexive
+relbooktranslations;Irreflexive
+reldiplomacy;Irreflexive,Transitive
+releconomicaid;Irreflexive,Antisymmetric
+relemigrants;Irreflexive,Antisymmetric
+relexportbooks;Irreflexive,Transitive
+relexports;Irreflexive
+relintergovorgs;Irreflexive,Transitive
+relngo;Irreflexive,Transitive
+relstudents;Irreflexive,Antisymmetric
+reltourism;Irreflexive
+reltreaties;Irreflexive,Transitive
+severdiplomatic;Irreflexive,Antisymmetric
+students;Irreflexive
+timesinceally;Irreflexive,Symmetric,Transitive,Partial Equivalence
+timesincewar;Irreflexive,Symmetric
+tourism;Irreflexive
+tourism3;Irreflexive,Symmetric
+treaties;Irreflexive,Symmetric
+unoffialacts;Irreflexive,Antisymmetric
+unweightedunvote;Irreflexive,Symmetric
+violentactions;Irreflexive,Symmetric
+warning;Irreflexive,Antisymmetric
+weightedunvote;Irreflexive,Symmetric

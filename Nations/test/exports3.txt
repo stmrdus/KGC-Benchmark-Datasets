@@ -1,0 +1,2 @@
+brazil	exports3	usa
+burma	exports3	india

@@ -1,0 +1,5 @@
+indonesia	militaryactions	uk
+indonesia	violentactions	uk
+indonesia	expeldiplomats	cuba
+netherlands	lostterritory	indonesia
+uk	duration	indonesia

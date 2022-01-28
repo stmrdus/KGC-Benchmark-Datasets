@@ -1,0 +1,3 @@
+/m/06t8v	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/01pj7
+/m/0345h	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0h7x
+/m/0h7x	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0345h

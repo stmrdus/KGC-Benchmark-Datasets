@@ -1,0 +1,7 @@
+/m/059j2	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/015fr
+/m/0ctw_b	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0b90_r
+/m/0154j	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/07ssc
+/m/06bnz	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0f8l9c
+/m/0f8l9c	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/06bnz
+/m/0345h	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/07ssc
+/m/015fr	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/059j2

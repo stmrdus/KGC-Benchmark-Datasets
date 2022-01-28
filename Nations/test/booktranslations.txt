@@ -1,0 +1,2 @@
+ussr	booktranslations	usa
+israel	booktranslations	ussr

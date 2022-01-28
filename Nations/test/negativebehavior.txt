@@ -1,0 +1,3 @@
+cuba	negativebehavior	uk
+usa	negativebehavior	egypt
+egypt	negativebehavior	israel

@@ -1,0 +1,13 @@
+china	intergovorgs3	india
+china	intergovorgs3	ussr
+israel	intergovorgs3	egypt
+cuba	intergovorgs3	uk
+uk	intergovorgs3	brazil
+china	intergovorgs3	usa
+burma	intergovorgs3	indonesia
+jordan	intergovorgs3	israel
+israel	intergovorgs3	brazil
+poland	intergovorgs3	israel
+brazil	intergovorgs3	usa
+uk	intergovorgs3	netherlands
+israel	intergovorgs3	usa

@@ -1,0 +1,10 @@
+/m/02jx1	/location/location/contains	/m/04jpl
+/m/01hmnh	/media_common/netflix_genre/titles	/m/017jd9
+/m/0dq_5	/organization/role/leaders./organization/leadership/organization	/m/086k8
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/06t2t
+/m/06pj8	/people/person/employment_history./business/employment_tenure/company	/m/016tw3
+/m/060c4	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/016tw3
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/01mjq
+/m/0dq_5	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0jbk9
+/m/02h40lc	/language/human_language/countries_spoken_in	/m/0d05w3
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/05k7sb
