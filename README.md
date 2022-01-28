@@ -27,3 +27,6 @@ Standard Staticcal Benchmark Datasets forKnowledge Graph Completion Github repos
 [5] Lin, Xi Victoria, Richard Socher and Caiming Xiong. “Multi-Hop Knowledge Graph Reasoning with Reward Shaping.” EMNLP (2018).
 
 [6] Kok, Stanley and Pedro M. Domingos. “Statistical predicate invention.” ICML '07 (2007).
+
+[7] [research.lpca](https://github.com/merialdo/research.lpca): project analyzes the results of various models for Link Prediction on Knowledge Graphs using Knowledge Graph Embeddings
+
