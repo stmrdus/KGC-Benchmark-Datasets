@@ -1,0 +1,5 @@
+concept_person_miriam	concept:hassibling	concept_person_moses
+concept_person_david	concept:hassibling	concept_person_lord
+concept_male_agamemnon	concept:hassibling	concept_person_menelaus
+concept_person_roman	concept:hassibling	concept_monarch_diocletian
+concept_person_apollo	concept:hassibling	concept_personafrica_python

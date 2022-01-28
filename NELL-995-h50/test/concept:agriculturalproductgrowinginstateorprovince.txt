@@ -1,0 +1,1 @@
+concept_agriculturalproduct_flowers	concept:agriculturalproductgrowinginstateorprovince	concept_stateorprovince_utah

@@ -1,0 +1,3 @@
+concept_female_mary	concept:motherofperson	concept_personeurope_infant
+concept_female_dione	concept:motherofperson	concept_female_aphrodite
+concept_female_mary	concept:motherofperson	concept_person_lord_jesus
