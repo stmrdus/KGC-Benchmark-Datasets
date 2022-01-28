@@ -1,0 +1,46 @@
+adjacent_to;Irreflexive,Antisymmetric
+affects;Irreflexive
+analyzes;Irreflexive,Antisymmetric
+assesses_effect_of;Irreflexive,Antisymmetric
+associated_with;Irreflexive,Antisymmetric
+carries_out;Irreflexive,Antisymmetric
+causes;Irreflexive,Antisymmetric
+co-occurs_with;Irreflexive,Antisymmetric,Transitive
+complicates;Irreflexive,Transitive
+conceptual_part_of;Irreflexive
+conceptually_related_to;Irreflexive,Antisymmetric
+connected_to;Irreflexive,Antisymmetric,Transitive
+consists_of;Irreflexive,Antisymmetric
+contains;Irreflexive,Antisymmetric,Transitive
+degree_of;Irreflexive,Symmetric,Transitive,Partial Equivalence
+derivative_of;Irreflexive,Antisymmetric
+developmental_form_of;Irreflexive,Antisymmetric,Transitive
+diagnoses;Irreflexive,Antisymmetric
+disrupts;Irreflexive,Antisymmetric
+evaluation_of;Irreflexive,Antisymmetric
+exhibits;Irreflexive,Antisymmetric
+indicates;Irreflexive,Antisymmetric
+ingredient_of;Irreflexive,Antisymmetric
+interacts_with;Irreflexive,Antisymmetric,Transitive
+interconnects;Irreflexive,Antisymmetric
+isa;Irreflexive,Antisymmetric,Transitive
+issue_in;Irreflexive,Transitive
+location_of;Irreflexive
+manages;Irreflexive,Antisymmetric
+manifestation_of;Irreflexive,Transitive
+measurement_of;Irreflexive,Antisymmetric
+measures;Irreflexive,Antisymmetric
+method_of;Irreflexive,Antisymmetric,Transitive
+occurs_in;Irreflexive,Transitive
+part_of;Irreflexive,Antisymmetric,Transitive
+performs;Irreflexive,Antisymmetric
+practices;Irreflexive,Antisymmetric
+precedes;Irreflexive,Symmetric,Transitive,Partial Equivalence
+prevents;Irreflexive,Antisymmetric
+process_of;Irreflexive,Transitive
+produces;Irreflexive,Antisymmetric
+property_of;Irreflexive,Antisymmetric
+result_of;Irreflexive,Symmetric,Transitive,Partial Equivalence
+surrounds;Irreflexive,Antisymmetric
+treats;Irreflexive,Antisymmetric
+uses;Irreflexive,Antisymmetric
