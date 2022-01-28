@@ -1,0 +1,4 @@
+/m/03lh3v	/olympics/olympic_athlete/medals_won./olympics/olympic_medal_honor/medal	/m/02lpp7
+/m/01kmd4	/olympics/olympic_athlete/medals_won./olympics/olympic_medal_honor/medal	/m/02lpp7
+/m/07vfqj	/olympics/olympic_athlete/medals_won./olympics/olympic_medal_honor/medal	/m/02lq67
+/m/03l295	/olympics/olympic_athlete/medals_won./olympics/olympic_medal_honor/medal	/m/02lq67

@@ -1,0 +1,17 @@
+/m/01hbgs	/medicine/risk_factor/diseases	/m/02vrr
+/m/0hg11	/medicine/risk_factor/diseases	/m/02bft
+/m/0g02vk	/medicine/risk_factor/diseases	/m/02bft
+/m/0jpmt	/medicine/risk_factor/diseases	/m/05mdx
+/m/01hbgs	/medicine/risk_factor/diseases	/m/02k6hp
+/m/0x67	/medicine/risk_factor/diseases	/m/01k9gb
+/m/05zppz	/medicine/risk_factor/diseases	/m/0gk4g
+/m/0jpmt	/medicine/risk_factor/diseases	/m/06g7c
+/m/05zppz	/medicine/risk_factor/diseases	/m/01k9gb
+/m/02ctzb	/medicine/risk_factor/diseases	/m/0dcqh
+/m/02zsn	/medicine/risk_factor/diseases	/m/025hl8
+/m/0217g	/medicine/risk_factor/diseases	/m/01gkcc
+/m/07_jd	/medicine/risk_factor/diseases	/m/0lcdk
+/m/01hbgs	/medicine/risk_factor/diseases	/m/0g02vk
+/m/0217g	/medicine/risk_factor/diseases	/m/09d11
+/m/0fltx	/medicine/risk_factor/diseases	/m/0hg45
+/m/05zppz	/medicine/risk_factor/diseases	/m/0gwj

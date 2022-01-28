@@ -1,0 +1,5 @@
+/m/0948xk	/government/politician/government_positions_held./government/government_position_held/appointed_by	/m/0d1_f
+/m/034ls	/government/politician/government_positions_held./government/government_position_held/appointed_by	/m/0c_md_
+/m/082xp	/government/politician/government_positions_held./government/government_position_held/appointed_by	/m/0lzcs
+/m/03l3ln	/government/politician/government_positions_held./government/government_position_held/appointed_by	/m/02mjmr
+/m/01mvpv	/government/politician/government_positions_held./government/government_position_held/appointed_by	/m/042fk

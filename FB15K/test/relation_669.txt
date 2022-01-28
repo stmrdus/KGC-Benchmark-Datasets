@@ -1,0 +1,6 @@
+/m/07ssc	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/athlete	/m/02rnns
+/m/09c7w0	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/athlete	/m/03l295
+/m/03rk0	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/athlete	/m/01qx13
+/m/09c7w0	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/athlete	/m/03lh3v
+/m/015fr	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/athlete	/m/03m5111
+/m/06mkj	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/athlete	/m/051q39

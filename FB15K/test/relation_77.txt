@@ -1,0 +1,14 @@
+/m/081mh	/base/aareas/schema/administrative_area/capital	/m/0fw2f
+/m/050ks	/base/aareas/schema/administrative_area/capital	/m/0cf_n
+/m/01x73	/base/aareas/schema/administrative_area/capital	/m/0f1sm
+/m/0fxrk	/base/aareas/schema/administrative_area/capital	/m/0gp5l6
+/m/01qcz7	/base/aareas/schema/administrative_area/capital	/m/04qdj
+/m/049lr	/base/aareas/schema/administrative_area/capital	/m/09c17
+/m/0290rb	/base/aareas/schema/administrative_area/capital	/m/027wvb
+/m/01gpzx	/base/aareas/schema/administrative_area/capital	/m/0d1yn
+/m/0jfvs	/base/aareas/schema/administrative_area/capital	/m/0hknf
+/m/02xry	/base/aareas/schema/administrative_area/capital	/m/0ftvz
+/m/075_t2	/base/aareas/schema/administrative_area/capital	/m/01f1q8
+/m/059rby	/base/aareas/schema/administrative_area/capital	/m/0dq16
+/m/0jgd	/base/aareas/schema/administrative_area/capital	/m/01ly5m
+/m/01ly8d	/base/aareas/schema/administrative_area/capital	/m/023b97

@@ -1,0 +1,2 @@
+/m/01nkt	/food/ingredient/incompatible_with_dietary_restrictions	/m/07_hy
+/m/019jw	/food/ingredient/incompatible_with_dietary_restrictions	/m/07_hy

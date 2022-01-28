@@ -1,0 +1,14 @@
+/m/059j2	/location/country/first_level_divisions	/m/0fqxw
+/m/0j5g9	/location/country/first_level_divisions	/m/01_5bb
+/m/09c7w0	/location/country/first_level_divisions	/m/0hjy
+/m/0f8l9c	/location/country/first_level_divisions	/m/078ym8
+/m/03rjj	/location/country/first_level_divisions	/m/0c61p
+/m/03rjj	/location/country/first_level_divisions	/m/04q_g
+/m/09c7w0	/location/country/first_level_divisions	/m/04ych
+/m/09c7w0	/location/country/first_level_divisions	/m/06yxd
+/m/0j5g9	/location/country/first_level_divisions	/m/0dt5k
+/m/0d060g	/location/country/first_level_divisions	/m/05kr_
+/m/09c7w0	/location/country/first_level_divisions	/m/04ykg
+/m/05bcl	/location/country/first_level_divisions	/m/0kd69
+/m/09c7w0	/location/country/first_level_divisions	/m/04rrd
+/m/03rjj	/location/country/first_level_divisions	/m/06w92

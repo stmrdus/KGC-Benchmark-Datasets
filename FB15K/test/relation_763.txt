@@ -1,0 +1,3 @@
+/m/0v53x	/religion/religion/is_part_of	/m/019cr
+/m/0631_	/religion/religion/is_part_of	/m/01t7j
+/m/019cr	/religion/religion/is_part_of	/m/01lp8

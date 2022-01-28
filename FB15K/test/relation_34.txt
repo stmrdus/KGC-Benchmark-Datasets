@@ -1,0 +1,3 @@
+/m/03jn4	/aviation/airport/airlines./aviation/airline_airport_presence/cities_served	/m/0177z
+/m/03jn4	/aviation/airport/airlines./aviation/airline_airport_presence/cities_served	/m/05l64
+/m/03jn4	/aviation/airport/airlines./aviation/airline_airport_presence/cities_served	/m/06c62

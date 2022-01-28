@@ -1,0 +1,16 @@
+/m/02fp3	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvdc
+/m/0jbqf	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvzf
+/m/0j8cb	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvzf
+/m/0jnr3	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvzf
+/m/0jnq8	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvdc
+/m/04l590	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvdc
+/m/0hm2b	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvl7
+/m/0jnl5	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvzf
+/m/030ykh	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvl7
+/m/048ldh	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvgy
+/m/0jnlm	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvl7
+/m/0hmt3	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvdc
+/m/0hn2q	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvzf
+/m/0jnnx	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvzf
+/m/04l59s	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvdc
+/m/02fp3	/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	/m/02qvzf

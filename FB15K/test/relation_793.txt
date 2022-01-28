@@ -1,0 +1,4 @@
+/m/06s27s	/sports/pro_athlete/teams./baseball/baseball_historical_roster_position/team	/m/0x0d
+/m/0f2zc	/sports/pro_athlete/teams./baseball/baseball_historical_roster_position/team	/m/01ypc
+/m/03n69x	/sports/pro_athlete/teams./baseball/baseball_historical_roster_position/team	/m/0713r
+/m/06s27s	/sports/pro_athlete/teams./baseball/baseball_historical_roster_position/team	/m/051wf

@@ -1,0 +1,9 @@
+/m/016k4x	/organization/organization/geographic_scope	/m/0d060g
+/m/0gjqq	/organization/organization/geographic_scope	/m/0345h
+/m/01x8f6	/organization/organization/geographic_scope	/m/0d060g
+/m/01fpdh	/organization/organization/geographic_scope	/m/0d060g
+/m/01qdcv	/organization/organization/geographic_scope	/m/0f8l9c
+/m/0py9b	/organization/organization/geographic_scope	/m/09nm_
+/m/012wvj	/organization/organization/geographic_scope	/m/03rt9
+/m/07wbk	/organization/organization/geographic_scope	/m/09c7w0
+/m/07wpm	/organization/organization/geographic_scope	/m/07ssc

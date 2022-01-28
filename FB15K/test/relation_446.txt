@@ -1,0 +1,5 @@
+/m/060bp	/government/government_office_category/officeholders./government/government_position_held/appointed_by	/m/0cmpn
+/m/0f6c3	/government/government_office_category/officeholders./government/government_position_held/appointed_by	/m/042kg
+/m/0f6c3	/government/government_office_category/officeholders./government/government_position_held/appointed_by	/m/02yy8
+/m/0789n	/government/government_office_category/officeholders./government/government_position_held/appointed_by	/m/02mjmr
+/m/0789n	/government/government_office_category/officeholders./government/government_position_held/appointed_by	/m/0kn4c

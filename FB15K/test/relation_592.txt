@@ -1,0 +1,3 @@
+/m/0h1yf	/medicine/drug/active_moieties	/m/0h1yf
+/m/014d7f	/medicine/drug/active_moieties	/m/014d7f
+/m/02kb_jm	/medicine/drug/active_moieties	/m/02kb_jm

@@ -1,0 +1,3 @@
+/m/098s1	/medicine/disease_cause/diseases	/m/0dcrb
+/m/0n8qp	/medicine/disease_cause/diseases	/m/02k6hp
+/m/02y0js	/medicine/disease_cause/diseases	/m/063yv

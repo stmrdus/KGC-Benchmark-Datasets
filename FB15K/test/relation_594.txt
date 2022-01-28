@@ -1,0 +1,9 @@
+/m/05qfh	/medicine/medical_specialty/diseases_treated	/m/0h99n
+/m/05wgy	/medicine/medical_specialty/diseases_treated	/m/07s4l
+/m/05vtw	/medicine/medical_specialty/diseases_treated	/m/0gwj
+/m/01d3n8	/medicine/medical_specialty/diseases_treated	/m/0dcp_
+/m/05vtw	/medicine/medical_specialty/diseases_treated	/m/06xqq
+/m/03tp4	/medicine/medical_specialty/diseases_treated	/m/03p41
+/m/03tp4	/medicine/medical_specialty/diseases_treated	/m/0d19y2
+/m/05wgy	/medicine/medical_specialty/diseases_treated	/m/0dcp_
+/m/01d3n8	/medicine/medical_specialty/diseases_treated	/m/0gk4g

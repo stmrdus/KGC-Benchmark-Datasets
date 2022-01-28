@@ -1,0 +1,14 @@
+/m/02g_6x	/sports/sports_position/players./sports/sports_team_roster/position	/m/02g_7z
+/m/02g_6j	/sports/sports_position/players./sports/sports_team_roster/position	/m/01r3hr
+/m/02g_6x	/sports/sports_position/players./sports/sports_team_roster/position	/m/0bgv8y
+/m/01r3hr	/sports/sports_position/players./sports/sports_team_roster/position	/m/02vkdwz
+/m/02g_7z	/sports/sports_position/players./sports/sports_team_roster/position	/m/05fyy5
+/m/02g_6x	/sports/sports_position/players./sports/sports_team_roster/position	/m/02vkdwz
+/m/05zm34	/sports/sports_position/players./sports/sports_team_roster/position	/m/01r3hr
+/m/01r3hr	/sports/sports_position/players./sports/sports_team_roster/position	/m/047g8h
+/m/06b1q	/sports/sports_position/players./sports/sports_team_roster/position	/m/01_9c1
+/m/05b3ts	/sports/sports_position/players./sports/sports_team_roster/position	/m/02vkdwz
+/m/02qpbqj	/sports/sports_position/players./sports/sports_team_roster/position	/m/01r3hr
+/m/0bgv4g	/sports/sports_position/players./sports/sports_team_roster/position	/m/0bgv8y
+/m/02vkdwz	/sports/sports_position/players./sports/sports_team_roster/position	/m/02g_6x
+/m/0bgv8y	/sports/sports_position/players./sports/sports_team_roster/position	/m/02g_6j

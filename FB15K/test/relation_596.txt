@@ -1,0 +1,11 @@
+/m/034rd	/medicine/notable_person_with_medical_condition/condition	/m/07jwr
+/m/0ywqc	/medicine/notable_person_with_medical_condition/condition	/m/068p_
+/m/01z0rcq	/medicine/notable_person_with_medical_condition/condition	/m/0h99n
+/m/0227vl	/medicine/notable_person_with_medical_condition/condition	/m/0h99n
+/m/03vrv9	/medicine/notable_person_with_medical_condition/condition	/m/04nz3
+/m/0gzh	/medicine/notable_person_with_medical_condition/condition	/m/06vr2
+/m/01hcj2	/medicine/notable_person_with_medical_condition/condition	/m/0j8hd
+/m/016z1t	/medicine/notable_person_with_medical_condition/condition	/m/0dcsx
+/m/017yfz	/medicine/notable_person_with_medical_condition/condition	/m/03p41
+/m/01twmp	/medicine/notable_person_with_medical_condition/condition	/m/0m32h
+/m/01tnbn	/medicine/notable_person_with_medical_condition/condition	/m/01g2q

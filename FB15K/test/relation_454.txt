@@ -1,0 +1,7 @@
+/m/0bw8r	/government/government_office_or_title/office_holders./government/government_position_held/appointed_by	/m/028rk
+/m/0bw8r	/government/government_office_or_title/office_holders./government/government_position_held/appointed_by	/m/07cbs
+/m/07y07	/government/government_office_or_title/office_holders./government/government_position_held/appointed_by	/m/03kdl
+/m/07y07	/government/government_office_or_title/office_holders./government/government_position_held/appointed_by	/m/07t2k
+/m/07y07	/government/government_office_or_title/office_holders./government/government_position_held/appointed_by	/m/083q7
+/m/0bw8r	/government/government_office_or_title/office_holders./government/government_position_held/appointed_by	/m/0gzh
+/m/0bw8r	/government/government_office_or_title/office_holders./government/government_position_held/appointed_by	/m/02mjmr

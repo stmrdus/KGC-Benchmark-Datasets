@@ -1,0 +1,3 @@
+/m/0lcdk	/medicine/disease/treatments	/m/0cd25
+/m/0m32h	/medicine/disease/treatments	/m/0217g
+/m/09d11	/medicine/disease/treatments	/m/0tbr

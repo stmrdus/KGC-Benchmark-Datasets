@@ -1,0 +1,10 @@
+/m/09s1f	/education/field_of_study/students_majoring./education/education/minor	/m/06nm1
+/m/04x_3	/education/field_of_study/students_majoring./education/education/minor	/m/04rjg
+/m/041y2	/education/field_of_study/students_majoring./education/education/minor	/m/064_8sq
+/m/04rjg	/education/field_of_study/students_majoring./education/education/minor	/m/04rlf
+/m/01lhf	/education/field_of_study/students_majoring./education/education/minor	/m/05qfh
+/m/03qsdpk	/education/field_of_study/students_majoring./education/education/minor	/m/01zc2w
+/m/04rlf	/education/field_of_study/students_majoring./education/education/minor	/m/07y_7
+/m/041y2	/education/field_of_study/students_majoring./education/education/minor	/m/062z7
+/m/04gb7	/education/field_of_study/students_majoring./education/education/minor	/m/037mh8
+/m/041y2	/education/field_of_study/students_majoring./education/education/minor	/m/03qsdpk

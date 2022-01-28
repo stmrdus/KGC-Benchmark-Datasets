@@ -1,0 +1,12 @@
+/m/040fb	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/02xx5
+/m/0lkm	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/03_ly
+/m/040fb	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/040fv
+/m/040fv	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/05cw8
+/m/05cw8	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/0lkm
+/m/06vkl	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/05lf_
+/m/04wzr	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/05lf_
+/m/028kb	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/040fv
+/m/05lf_	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/0lkm
+/m/05cw8	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/04wzr
+/m/0ll3	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/03_ly
+/m/040fv	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	/m/028kb

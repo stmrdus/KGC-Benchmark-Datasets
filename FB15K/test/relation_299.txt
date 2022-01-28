@@ -1,0 +1,4 @@
+/m/01k2wn	/education/educational_institution/sexes_accepted./education/gender_enrollment/sex	/m/05zppz
+/m/041pnt	/education/educational_institution/sexes_accepted./education/gender_enrollment/sex	/m/02zsn
+/m/031hxk	/education/educational_institution/sexes_accepted./education/gender_enrollment/sex	/m/02zsn
+/m/08815	/education/educational_institution/sexes_accepted./education/gender_enrollment/sex	/m/02zsn

@@ -1,0 +1,11 @@
+/m/06b1q	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/05zm34
+/m/05b3ts	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/02vkdwz
+/m/01_9c1	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/01r3hr
+/m/0bgv4g	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/023wyl
+/m/01r3hr	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/02g_6x
+/m/06b1q	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/047g8h
+/m/02g_6j	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/023wyl
+/m/02vkdwz	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/0bgv4g
+/m/0bgv8y	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/0bgv4g
+/m/02qpbqj	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/02g_7z
+/m/02vkdwz	/sports/sports_position/players./american_football/football_historical_roster_position/position_s	/m/01r3hr

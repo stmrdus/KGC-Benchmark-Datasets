@@ -1,0 +1,2 @@
+/m/0x2gl	/base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person	/m/05w88j
+/m/06g5z	/base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person	/m/06b_0

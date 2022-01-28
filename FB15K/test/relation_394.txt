@@ -1,0 +1,10 @@
+/m/027dcbn	/film/film_character/portrayed_in_films./film/performance/actor	/m/038rzr
+/m/06rkl	/film/film_character/portrayed_in_films./film/performance/actor	/m/012j5h
+/m/027dcbn	/film/film_character/portrayed_in_films./film/performance/actor	/m/0f0kz
+/m/01d5g	/film/film_character/portrayed_in_films./film/performance/actor	/m/01yfm8
+/m/04pzy	/film/film_character/portrayed_in_films./film/performance/actor	/m/0kjrx
+/m/0147fv	/film/film_character/portrayed_in_films./film/performance/actor	/m/0k269
+/m/0d9kl	/film/film_character/portrayed_in_films./film/performance/actor	/m/0223g8
+/m/01d5g	/film/film_character/portrayed_in_films./film/performance/actor	/m/04wp3s
+/m/0147fv	/film/film_character/portrayed_in_films./film/performance/actor	/m/09zmys
+/m/070vn	/film/film_character/portrayed_in_films./film/performance/actor	/m/02tqkf

@@ -1,0 +1,5 @@
+/m/03gkn5	/government/politician/government_positions_held./government/government_position_held/governmental_body	/m/0d6qjf
+/m/0gzh	/government/politician/government_positions_held./government/government_position_held/governmental_body	/m/0b3wk
+/m/081t6	/government/politician/government_positions_held./government/government_position_held/governmental_body	/m/07t58
+/m/03_nq	/government/politician/government_positions_held./government/government_position_held/governmental_body	/m/07vsl
+/m/09bg4l	/government/politician/government_positions_held./government/government_position_held/governmental_body	/m/07t58

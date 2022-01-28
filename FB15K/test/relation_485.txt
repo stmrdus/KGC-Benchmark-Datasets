@@ -1,0 +1,9 @@
+/m/09bg4l	/government/political_appointer/appointees./government/government_position_held/governmental_body	/m/0c0cs
+/m/07t2k	/government/political_appointer/appointees./government/government_position_held/governmental_body	/m/07x_h
+/m/02yy8	/government/political_appointer/appointees./government/government_position_held/governmental_body	/m/07x_h
+/m/0f7fy	/government/political_appointer/appointees./government/government_position_held/governmental_body	/m/0c0cs
+/m/09b6zr	/government/political_appointer/appointees./government/government_position_held/governmental_body	/m/07y0n
+/m/042kg	/government/political_appointer/appointees./government/government_position_held/governmental_body	/m/07y0n
+/m/0157m	/government/political_appointer/appointees./government/government_position_held/governmental_body	/m/0c0cs
+/m/042d1	/government/political_appointer/appointees./government/government_position_held/governmental_body	/m/07x_h
+/m/042f1	/government/political_appointer/appointees./government/government_position_held/governmental_body	/m/07vsl

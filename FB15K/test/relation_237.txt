@@ -1,0 +1,8 @@
+/m/04fv0k	/business/business_operation/current_liabilities./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/02ktt7	/business/business_operation/current_liabilities./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/0mgkg	/business/business_operation/current_liabilities./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/04qhdf	/business/business_operation/current_liabilities./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/01ym8l	/business/business_operation/current_liabilities./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/03phgz	/business/business_operation/current_liabilities./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/05njw	/business/business_operation/current_liabilities./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/02630g	/business/business_operation/current_liabilities./measurement_unit/dated_money_value/currency	/m/09nqf

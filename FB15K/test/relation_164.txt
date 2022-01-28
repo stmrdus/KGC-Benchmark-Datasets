@@ -1,0 +1,7 @@
+/m/03d3ht	/base/schemastaging/tv_program_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/actor	/m/055t01
+/m/06xkst	/base/schemastaging/tv_program_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/actor	/m/04bbv7
+/m/0q6g3	/base/schemastaging/tv_program_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/actor	/m/066l3y
+/m/0gxr1c	/base/schemastaging/tv_program_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/actor	/m/0814k3
+/m/02rhwjr	/base/schemastaging/tv_program_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/actor	/m/01tkgy
+/m/03q4hl	/base/schemastaging/tv_program_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/actor	/m/07q68q
+/m/05hd32	/base/schemastaging/tv_program_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/actor	/m/0814k3

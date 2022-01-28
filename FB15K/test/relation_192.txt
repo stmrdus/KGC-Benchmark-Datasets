@@ -1,0 +1,6 @@
+/m/0cymln	/basketball/basketball_player/position_s	/m/02sf_r
+/m/01sg7_	/basketball/basketball_player/position_s	/m/03558l
+/m/01sg7_	/basketball/basketball_player/position_s	/m/02sf_r
+/m/03l295	/basketball/basketball_player/position_s	/m/03558l
+/m/02cg2v	/basketball/basketball_player/position_s	/m/02sf_r
+/m/095nx	/basketball/basketball_player/position_s	/m/02sf_r

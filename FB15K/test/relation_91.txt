@@ -1,0 +1,4 @@
+/m/09fqd3	/base/contractbridge/bridge_player/first_place_finish./base/contractbridge/bridge_tournament_standings/second_place	/m/03cxqp5
+/m/02vptk_	/base/contractbridge/bridge_player/first_place_finish./base/contractbridge/bridge_tournament_standings/second_place	/m/03cxqp5
+/m/02vptk_	/base/contractbridge/bridge_player/first_place_finish./base/contractbridge/bridge_tournament_standings/second_place	/m/09fqd3
+/m/09fqd3	/base/contractbridge/bridge_player/first_place_finish./base/contractbridge/bridge_tournament_standings/second_place	/m/09f5pp

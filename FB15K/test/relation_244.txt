@@ -1,0 +1,11 @@
+/m/025w401	/business/company_type/companies_of_this_type	/m/031rx9
+/m/025w401	/business/company_type/companies_of_this_type	/m/0381pn
+/m/025w401	/business/company_type/companies_of_this_type	/m/04rcl7
+/m/025w401	/business/company_type/companies_of_this_type	/m/06rfy5
+/m/01mxzw	/business/company_type/companies_of_this_type	/m/025txrl
+/m/01prdc	/business/company_type/companies_of_this_type	/m/0123j6
+/m/01prdc	/business/company_type/companies_of_this_type	/m/04f525m
+/m/025w401	/business/company_type/companies_of_this_type	/m/01cszh
+/m/023k2	/business/company_type/companies_of_this_type	/m/01tmng
+/m/023k2	/business/company_type/companies_of_this_type	/m/02zs4
+/m/023k2	/business/company_type/companies_of_this_type	/m/03bnb

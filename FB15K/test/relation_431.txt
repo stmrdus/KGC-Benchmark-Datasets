@@ -1,0 +1,2 @@
+/m/07_hy	/food/dietary_restriction/compatible_ingredients	/m/0fbw6
+/m/034n2g	/food/dietary_restriction/compatible_ingredients	/m/0f25w9

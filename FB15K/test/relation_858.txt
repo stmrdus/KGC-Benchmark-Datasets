@@ -1,0 +1,4 @@
+/m/03xyp_	/tennis/tennis_player/matches_lost./tennis/tennis_match/winner	/m/069d71
+/m/09n70c	/tennis/tennis_player/matches_lost./tennis/tennis_match/winner	/m/01my95
+/m/016cff	/tennis/tennis_player/matches_lost./tennis/tennis_match/winner	/m/015z4j
+/m/03xyp_	/tennis/tennis_player/matches_lost./tennis/tennis_match/winner	/m/069d68

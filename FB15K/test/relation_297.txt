@@ -1,0 +1,12 @@
+/m/0vkl2	/education/educational_institution/parent_institution	/m/0gjv_
+/m/0hsb3	/education/educational_institution/parent_institution	/m/0gjv_
+/m/04ycjk	/education/educational_institution/parent_institution	/m/0gl5_
+/m/0301dp	/education/educational_institution/parent_institution	/m/0dplh
+/m/0138t4	/education/educational_institution/parent_institution	/m/07tg4
+/m/032r4n	/education/educational_institution/parent_institution	/m/01w5m
+/m/01n951	/education/educational_institution/parent_institution	/m/01w5m
+/m/022r38	/education/educational_institution/parent_institution	/m/01w5m
+/m/058z2d	/education/educational_institution/parent_institution	/m/050xpd
+/m/043q2z	/education/educational_institution/parent_institution	/m/03ksy
+/m/04d5v9	/education/educational_institution/parent_institution	/m/01w5m
+/m/0ymdn	/education/educational_institution/parent_institution	/m/07tgn

@@ -1,0 +1,5 @@
+/m/07657k	/computer/programming_language/influenced_by	/m/07sbkfb
+/m/05z1_	/computer/programming_language/influenced_by	/m/04kyw
+/m/060kv	/computer/programming_language/influenced_by	/m/05z1_
+/m/060kv	/computer/programming_language/influenced_by	/m/07657k
+/m/02p97	/computer/programming_language/influenced_by	/m/04kyw

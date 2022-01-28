@@ -1,0 +1,10 @@
+/m/02079p	/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	/m/01grmk
+/m/01gkgk	/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	/m/01grpq
+/m/02079p	/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	/m/01grrf
+/m/02079p	/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	/m/01gtc0
+/m/0p5vf	/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	/m/04lgybj
+/m/01gkgk	/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	/m/01grr2
+/m/02079p	/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	/m/01grq1
+/m/02079p	/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	/m/01gssz
+/m/02079p	/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	/m/02bp37
+/m/02079p	/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	/m/01gsvp

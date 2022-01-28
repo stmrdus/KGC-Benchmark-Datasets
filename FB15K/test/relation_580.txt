@@ -1,0 +1,4 @@
+/m/07s9rl0	/media_common/media_genre/parent_genre	/m/02jjt
+/m/06www	/media_common/media_genre/parent_genre	/m/06n90
+/m/03mqtr	/media_common/media_genre/parent_genre	/m/07s9rl0
+/m/0mz2	/media_common/media_genre/parent_genre	/m/014dfn
