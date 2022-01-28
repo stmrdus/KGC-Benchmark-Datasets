@@ -1,8 +1,25 @@
 # Knowledge Graph Completion Benchmark Datasets
 
-Standard Staticcal Benchmark Datasets forKnowledge Graph Completion Github repository.
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nhutnamhcmus/KGC-Benchmark-Datasets"><a href="https://github.com/nhutnamhcmus/KGC-Benchmark-Datasets/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/nhutnamhcmus/KGC-Benchmark-Datasets"></a>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nhutnamhcmus/KGC-Benchmark-Datasets">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nhutnamhcmus/KGC-Benchmark-Datasets">
+<a href="https://github.com/nhutnamhcmus/KGC-Benchmark-Datasets/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/nhutnamhcmus/KGC-Benchmark-Datasets"></a>
+<a href="https://github.com/nhutnamhcmus/KGC-Benchmark-Datasets/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nhutnamhcmus/KGC-Benchmark-Datasets"></a>
+<img alt="GitHub" src="https://img.shields.io/github/license/nhutnamhcmus/KGC-Benchmark-Datasets">
+
+Standard Staticcal Benchmark Datasets for Knowledge Graph Completion Github repository.
+
+This repository contains dataset for Knowledge Graph Completion task include: link prediction (enity prediction, relation prediction). We upload common datasets like FB15K, FB15K-237, WN18, WN18RR, YAGO3-10. For each dataset, we extract 1-1, 1-N, N-1, N-N relation to text files, relation properties in dataset include symmetric, antisymmetric, reflexive, irreflexive, transitive, partial equivalence, equivalence, order and preorder type.
+
+Contributed by: [Nhut-Nam Le](https://github.com/nhutnamhcmus)
 
 ## Dataset statistical information
+
+FB15k-237 is upgraded version of FB15k. Inverse relations are deleted in order to prevent direct inference of test triples, model can't predict easily. In FB15K-237, we have some relation types like symmetric, antisymmetric and composite
+
+WN18RR is a subset of WN18. Seven inverse relations are deleted similar to FB15k-237. It describe lexical and semantic hierarchies between concepts, which is mainly concerned with symmetry, anti-symmetry.
+
+YAGO3-10 is a subset of YAGO3, mainly concerned with symmetry, anti-symmetry. It has 123,182 entities and 37 relations, and most of the triples describe attributes of persons such as citizenship, gender, and profession.
 
 |   | Entities  | Relations  | Train  | Valid  | Test  |
 |---|---|---|---|---|---|
@@ -28,5 +45,10 @@ Standard Staticcal Benchmark Datasets forKnowledge Graph Completion Github repos
 
 [6] Kok, Stanley and Pedro M. Domingos. “Statistical predicate invention.” ICML '07 (2007).
 
-[7] [research.lpca](https://github.com/merialdo/research.lpca): project analyzes the results of various models for Link Prediction on Knowledge Graphs using Knowledge Graph Embeddings
+## To do
 
+Add more dataset 
+
+## Acknowledgments
+
+[research.lpca](https://github.com/merialdo/research.lpca): project analyzes the results of various models for Link Prediction on Knowledge Graphs using Knowledge Graph Embeddings
