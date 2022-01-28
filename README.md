@@ -1,5 +1,7 @@
 # Knowledge Graph Completion Benchmark Datasets
 
+Standard Staticcal Benchmark Datasets forKnowledge Graph Completion Github repository.
+
 ## Dataset statistical information
 
 |   | Entities  | Relations  | Train  | Valid  | Test  |
@@ -11,7 +13,6 @@
 | YAGO3-10 [4] | 123182  |  37 | 1079040  | 5000  | 5000  |
 | Kinship [5] | 104  | 25  |  8544 | 1068  | 1074  |
 | UMLS  | 135  | 46  |  5216 |  652 | 661  |
-
 
 ## References
 
