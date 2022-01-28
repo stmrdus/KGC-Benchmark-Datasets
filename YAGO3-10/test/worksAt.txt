@@ -1,0 +1,15 @@
+Leonard_Eugene_Dickson	worksAt	University_of_Chicago
+Joseph_Keller	worksAt	New_York_University
+Joseph_Stefan	worksAt	University_of_Vienna
+Frank_Shu	worksAt	National_Tsing_Hua_University
+Philip_Wadler	worksAt	Carnegie_Mellon_University
+Marcus_du_Sautoy	worksAt	University_of_Oxford
+Frederic_Calland_Williams	worksAt	University_of_Manchester
+James_A._Shapiro	worksAt	University_of_Chicago
+Andreas_von_Ettingshausen	worksAt	Vienna_University_of_Technology
+Richard_J._Lipton	worksAt	Princeton_University
+Carl_Friedrich_Gauss	worksAt	University_of_Göttingen
+Bill_Buxton	worksAt	PARC_(company)
+Gary_Paul_Nabhan	worksAt	University_of_Arizona
+Oskar_Klein	worksAt	University_of_Michigan
+Albert_Abraham_Michelson	worksAt	Clark_University

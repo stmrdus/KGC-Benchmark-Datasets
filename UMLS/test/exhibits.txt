@@ -1,0 +1,5 @@
+vertebrate	exhibits	individual_behavior
+group	exhibits	individual_behavior
+amphibian	exhibits	social_behavior
+reptile	exhibits	social_behavior
+age_group	exhibits	behavior

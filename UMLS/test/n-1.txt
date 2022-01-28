@@ -1,0 +1,5 @@
+organophosphorus_compound	ingredient_of	clinical_drug
+chemical_viewed_structurally	ingredient_of	clinical_drug
+cell_component	conceptual_part_of	body_system
+hormone	ingredient_of	clinical_drug
+hazardous_or_poisonous_substance	ingredient_of	clinical_drug

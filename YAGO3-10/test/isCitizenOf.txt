@@ -1,0 +1,15 @@
+Gheorghe_Asachi	isCitizenOf	Romania
+Robert_Kagan	isCitizenOf	United_States
+Frederick_G._Donnan	isCitizenOf	Northern_Ireland
+Vladimir_Mayakovsky	isCitizenOf	Soviet_Union
+David_Gemmell	isCitizenOf	England
+Emile_Berliner	isCitizenOf	Germany
+Leonhard_Euler	isCitizenOf	Switzerland
+Mohsin_Hamid	isCitizenOf	United_Kingdom
+Monique_Wittig	isCitizenOf	France
+Simon_Conway_Morris	isCitizenOf	United_Kingdom
+Benny_Hill	isCitizenOf	England
+Ivan_Śleszyński	isCitizenOf	Russia
+Stanley_Cohen_(biochemist)	isCitizenOf	United_States
+Friedrich_Ebert,_Jr.	isCitizenOf	Germany
+James_Braid_(surgeon)	isCitizenOf	Scotland

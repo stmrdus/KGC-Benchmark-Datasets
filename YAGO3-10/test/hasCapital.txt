@@ -1,0 +1,13 @@
+Wetteraukreis	hasCapital	Friedberg,_Hesse
+Khwarazmian_dynasty	hasCapital	Tabriz
+Central_Province_(Sri_Lanka)	hasCapital	Kandy
+Mongolia	hasCapital	Ulaanbaatar
+Daugavpils_District	hasCapital	Daugavpils
+Vinnytsia_Oblast	hasCapital	Vinnytsia
+Tambov_Oblast	hasCapital	Tambov
+South_Carolina	hasCapital	Columbia_(South_Carolina)
+Třebíč_District	hasCapital	Třebíč
+Bonaire	hasCapital	Kralendijk
+Kingdom_of_France	hasCapital	Paris
+Kufstein_District	hasCapital	Kufstein
+Yamagata_(prefecture)	hasCapital	Yamagata

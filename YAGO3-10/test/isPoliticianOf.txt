@@ -1,0 +1,10 @@
+Josip_Broz_Tito	isPoliticianOf	Socialist_Federal_Republic_of_Yugoslavia
+Julius_Sterling_Morton	isPoliticianOf	Nebraska_Territory
+Mustapha_Khaznadar	isPoliticianOf	Tunisia
+Evan_Bayh	isPoliticianOf	Indiana
+George_L._Brown	isPoliticianOf	Colorado
+Tim_Kaine	isPoliticianOf	Virginia
+Jorge_Sampaio	isPoliticianOf	Portugal
+Sebastián_Piñera	isPoliticianOf	Chile
+Konstantin_Päts	isPoliticianOf	Estonia
+John_of_Lancaster,_1st_Duke_of_Bedford	isPoliticianOf	Jersey

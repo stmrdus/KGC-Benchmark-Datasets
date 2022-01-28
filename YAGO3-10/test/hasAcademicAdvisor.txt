@@ -1,0 +1,5 @@
+Wilhelm_Röntgen	hasAcademicAdvisor	August_Kundt
+Frank_Kelly_(mathematician)	hasAcademicAdvisor	Peter_Whittle
+Joseph_Keller	hasAcademicAdvisor	Richard_Courant
+Karl_von_Auwers	hasAcademicAdvisor	August_Wilhelm_von_Hofmann
+Curtis_T._McMullen	hasAcademicAdvisor	Dennis_Sullivan

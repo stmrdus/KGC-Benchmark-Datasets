@@ -1,0 +1,2 @@
+Suriname	hasOfficialLanguage	Dutch_language
+Ukrainian_Soviet_Socialist_Republic	hasOfficialLanguage	Ukrainian_language

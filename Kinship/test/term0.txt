@@ -1,0 +1,17 @@
+person32	term0	person53
+person12	term0	person86
+person59	term0	person98
+person98	term0	person48
+person9	term0	person96
+person89	term0	person13
+person98	term0	person85
+person10	term0	person96
+person18	term0	person53
+person12	term0	person101
+person0	term0	person96
+person96	term0	person1
+person98	term0	person20
+person45	term0	person58
+person1	term0	person45
+person13	term0	person93
+person97	term0	person3

@@ -1,0 +1,11 @@
+/m/07wbk	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/0chsq
+/m/0d075m	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/02mjmr
+/m/07wbk	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/0cqt90
+/m/07k5l	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/01w03jv
+/m/07wbk	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/081t6
+/m/0d075m	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/021sv1
+/m/07wbk	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/0cl_m
+/m/07wdw	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/0gzh
+/m/0d075m	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/06bss
+/m/07wbk	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/0gd9k
+/m/07wbk	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	/m/0tc7

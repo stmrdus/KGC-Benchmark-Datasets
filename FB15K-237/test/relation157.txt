@@ -1,0 +1,3 @@
+/m/03fcbb	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	/m/09nqf
+/m/0pz6q	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	/m/02l6h
+/m/04ycjk	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	/m/09nqf

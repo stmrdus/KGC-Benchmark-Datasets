@@ -1,0 +1,4 @@
+Tanya_Plibersek	isLeaderOf	Australian_Labor_Party
+Boris_Johnson	isLeaderOf	Transport_for_London
+Town_council	isLeaderOf	Princeton,_British_Columbia
+Peter_Till	isLeaderOf	Ruapehu_District

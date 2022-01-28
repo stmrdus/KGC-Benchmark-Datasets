@@ -1,0 +1,7 @@
+Libya	dealsWith	Tunisia
+Quebec	dealsWith	Netherlands
+British_Virgin_Islands	dealsWith	Puerto_Rico
+Lithuania	dealsWith	Soviet_Union
+Laos	dealsWith	Thailand
+Gabon	dealsWith	Japan
+Azerbaijan	dealsWith	Turkey

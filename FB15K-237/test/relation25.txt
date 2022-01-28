@@ -1,0 +1,5 @@
+/m/059g4	/base/locations/continents/countries_within	/m/06ryl
+/m/02j9z	/base/locations/continents/countries_within	/m/03rt9
+/m/02j9z	/base/locations/continents/countries_within	/m/06mkj
+/m/02j9z	/base/locations/continents/countries_within	/m/03rjj
+/m/02j9z	/base/locations/continents/countries_within	/m/07ssc

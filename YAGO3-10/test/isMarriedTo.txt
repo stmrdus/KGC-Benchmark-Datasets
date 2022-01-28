@@ -1,0 +1,17 @@
+Judy_Garland	isMarriedTo	David_Rose
+Ayaan_Hirsi_Ali	isMarriedTo	Niall_Ferguson
+Henry_VII_of_England	isMarriedTo	Elizabeth_of_York
+Jean_Michel_Jarre	isMarriedTo	Charlotte_Rampling
+David_Benioff	isMarriedTo	Amanda_Peet
+Jürgen_Trittin	isMarriedTo	Renate_Künast
+Maria_of_Austria,_Holy_Roman_Empress	isMarriedTo	Maximilian_II,_Holy_Roman_Emperor
+Constance_of_Austria	isMarriedTo	Sigismund_III_Vasa
+Róża_Potocka_(1780–1862)	isMarriedTo	Władysław_Grzegorz_Branicki
+Adelaide_of_Susa	isMarriedTo	Otto_I,_Count_of_Savoy
+Betty_Compson	isMarriedTo	James_Cruze
+Peter_Hoyt_Brown	isMarriedTo	Anne_Brown
+Guy_Madison	isMarriedTo	Gail_Russell
+Patrick_Ollier	isMarriedTo	Michèle_Alliot-Marie
+Marie-Christine_Arnautu	isMarriedTo	fr/Jean-François_Jalkh
+Frank_Sinatra	isMarriedTo	Ava_Gardner
+Emma_Thompson	isMarriedTo	Eric_Thompson

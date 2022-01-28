@@ -1,0 +1,14 @@
+3370927	_synset_domain_usage_of	6845599
+3966976	_synset_domain_usage_of	6295235
+3319858	_synset_domain_usage_of	6845599
+3441778	_synset_domain_usage_of	6845599
+10162780	_synset_domain_usage_of	7075172
+9636339	_synset_domain_usage_of	7073447
+3804311	_synset_domain_usage_of	6845599
+10729923	_synset_domain_usage_of	7157273
+14416473	_synset_domain_usage_of	7073447
+13651520	_synset_domain_usage_of	6307152
+4524594	_synset_domain_usage_of	6851742
+4450749	_synset_domain_usage_of	6295235
+3774673	_synset_domain_usage_of	6845599
+9643799	_synset_domain_usage_of	7157273

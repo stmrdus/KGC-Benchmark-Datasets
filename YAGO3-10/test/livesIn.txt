@@ -1,0 +1,11 @@
+Mira_Furlan	livesIn	Los_Angeles
+Carl_Sagan	livesIn	United_States
+James_Cromwell	livesIn	Studio_City,_Los_Angeles
+Wallace_McCain	livesIn	Ontario
+Barbara_Follett_(politician)	livesIn	Hertfordshire
+Alan_Lowenthal	livesIn	California
+John_Moffat_(physicist)	livesIn	Canada
+Piet_Hein_Donner	livesIn	The_Hague
+John_Warner	livesIn	Virginia
+Alexander_Pechtold	livesIn	Wageningen
+Demetrios_Christodoulou	livesIn	Greece

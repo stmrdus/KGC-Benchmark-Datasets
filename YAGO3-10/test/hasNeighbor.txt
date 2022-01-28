@@ -1,0 +1,2 @@
+Vietnam	hasNeighbor	China
+Collectivity_of_Saint_Martin	hasNeighbor	Spain

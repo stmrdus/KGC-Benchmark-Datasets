@@ -1,0 +1,2 @@
+Jürgen_Habermas	isInterestedIn	Political_philosophy
+Richard_Rorty	isInterestedIn	Philosophy_of_language

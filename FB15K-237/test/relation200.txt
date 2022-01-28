@@ -1,0 +1,3 @@
+/m/05g76	/sports/sports_team/roster./baseball/baseball_roster_position/position	/m/01z9v6
+/m/04c9bn	/sports/sports_team/roster./baseball/baseball_roster_position/position	/m/02wszf
+/m/04b5l3	/sports/sports_team/roster./baseball/baseball_roster_position/position	/m/02lyr4

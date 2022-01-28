@@ -1,0 +1,3 @@
+Finland	exports	wordnet_machinery_103701640
+Bulgaria	exports	wordnet_clothing_103051540
+Tunisia	exports	wordnet_clothing_103051540

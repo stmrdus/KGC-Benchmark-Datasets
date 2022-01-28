@@ -1,0 +1,2 @@
+therapeutic_or_preventive_procedure	prevents	neoplastic_process
+antibiotic	prevents	pathologic_function

@@ -1,0 +1,10 @@
+/m/0kyk	/dataworld/gardening_hint/split_to	/m/0kyk
+/m/05ws7	/dataworld/gardening_hint/split_to	/m/02fgmn
+/m/077rj	/dataworld/gardening_hint/split_to	/m/01pfr3
+/m/0nlh7	/dataworld/gardening_hint/split_to	/m/0nlh7
+/m/014mlp	/dataworld/gardening_hint/split_to	/m/019v9k
+/m/06fvc	/dataworld/gardening_hint/split_to	/m/019sc
+/m/016dsy	/dataworld/gardening_hint/split_to	/m/016dsy
+/m/01nds	/dataworld/gardening_hint/split_to	/m/01nds
+/m/02jxsq	/dataworld/gardening_hint/split_to	/m/02jxsq
+/m/09y2k2	/dataworld/gardening_hint/split_to	/m/0222qb

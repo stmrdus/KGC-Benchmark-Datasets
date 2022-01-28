@@ -1,0 +1,9 @@
+/m/054kmq	/soccer/football_player/current_team./sports/sports_team_roster/team	/m/0xbm
+/m/06sy4c	/soccer/football_player/current_team./sports/sports_team_roster/team	/m/01dtl
+/m/07m69t	/soccer/football_player/current_team./sports/sports_team_roster/team	/m/02s2ys
+/m/0d3mlc	/soccer/football_player/current_team./sports/sports_team_roster/team	/m/01l0__
+/m/04bsx1	/soccer/football_player/current_team./sports/sports_team_roster/team	/m/0bl8l
+/m/0czmk1	/soccer/football_player/current_team./sports/sports_team_roster/team	/m/023fb
+/m/0fw2d3	/soccer/football_player/current_team./sports/sports_team_roster/team	/m/05169r
+/m/0d9v9q	/soccer/football_player/current_team./sports/sports_team_roster/team	/m/02b15h
+/m/07h1h5	/soccer/football_player/current_team./sports/sports_team_roster/team	/m/029q3k
