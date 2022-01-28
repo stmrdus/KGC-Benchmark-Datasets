@@ -11,6 +11,8 @@ Standard Staticcal Benchmark Datasets for Knowledge Graph Completion Github repo
 
 This repository contains dataset for Knowledge Graph Completion task include: link prediction (enity prediction, relation prediction). We upload common datasets like FB15K, FB15K-237, WN18, WN18RR, YAGO3-10. For each dataset, we extract 1-1, 1-N, N-1, N-N relation to text files, relation properties in dataset include symmetric, antisymmetric, reflexive, irreflexive, transitive, partial equivalence, equivalence, order and preorder type.
 
+Contributed by: [Nhut-Nam Le](https://github.com/nhutnamhcmus)
+
 ## Dataset statistical information
 
 FB15k-237 is upgraded version of FB15k. Inverse relations are deleted in order to prevent direct inference of test triples, model can't predict easily. In FB15K-237, we have some relation types like symmetric, antisymmetric and composite
@@ -43,5 +45,10 @@ YAGO3-10 is a subset of YAGO3, mainly concerned with symmetry, anti-symmetry. It
 
 [6] Kok, Stanley and Pedro M. Domingos. “Statistical predicate invention.” ICML '07 (2007).
 
-[7] [research.lpca](https://github.com/merialdo/research.lpca): project analyzes the results of various models for Link Prediction on Knowledge Graphs using Knowledge Graph Embeddings
+## To do
 
+Add more dataset 
+
+## Acknowledgments
+
+[research.lpca](https://github.com/merialdo/research.lpca): project analyzes the results of various models for Link Prediction on Knowledge Graphs using Knowledge Graph Embeddings
