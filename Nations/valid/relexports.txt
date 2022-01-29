@@ -1,0 +1,7 @@
+india	relexports	ussr
+china	relexports	cuba
+cuba	relexports	ussr
+india	relexports	uk
+india	relexports	usa
+china	relexports	ussr
+poland	relexports	usa

@@ -1,0 +1,5 @@
+body_part_organ_or_organ_component	interconnects	body_space_or_junction
+individual_behavior	conceptually_related_to	idea_or_concept
+body_space_or_junction	interconnects	cell
+body_substance	derivative_of	tissue
+disease_or_syndrome	conceptually_related_to	experimental_model_of_disease

@@ -1,0 +1,12 @@
+uk	timesinceally	usa
+india	timesinceally	cuba
+ussr	timesinceally	china
+uk	timesinceally	cuba
+uk	timesinceally	ussr
+egypt	timesinceally	ussr
+uk	timesinceally	egypt
+usa	timesinceally	cuba
+usa	timesinceally	netherlands
+china	timesinceally	brazil
+ussr	timesinceally	brazil
+india	timesinceally	brazil

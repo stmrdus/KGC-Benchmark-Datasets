@@ -1,0 +1,6 @@
+egypt	officialvisits	ussr
+usa	officialvisits	indonesia
+china	officialvisits	indonesia
+jordan	officialvisits	egypt
+cuba	officialvisits	china
+china	officialvisits	burma

@@ -1,0 +1,16 @@
+person13	term19	person21
+person13	term19	person43
+person12	term19	person31
+person1	term25	person39
+person12	term19	person25
+person13	term19	person37
+person1	term25	person29
+person3	term25	person25
+person71	term19	person13
+person3	term25	person6
+person13	term19	person28
+person12	term19	person11
+person1	term25	person34
+person0	term25	person50
+person12	term19	person27
+person12	term19	person22

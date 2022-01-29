@@ -1,0 +1,6 @@
+pharmacologic_substance	treats	neoplastic_process
+pharmacologic_substance	treats	disease_or_syndrome
+pharmacologic_substance	treats	injury_or_poisoning
+antibiotic	treats	experimental_model_of_disease
+drug_delivery_device	treats	injury_or_poisoning
+medical_device	treats	acquired_abnormality

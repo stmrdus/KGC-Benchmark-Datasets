@@ -1,0 +1,4 @@
+china	negativecomm	india
+indonesia	negativecomm	china
+indonesia	negativecomm	uk
+usa	negativecomm	brazil

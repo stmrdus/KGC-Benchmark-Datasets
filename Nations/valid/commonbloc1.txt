@@ -1,0 +1,10 @@
+israel	commonbloc1	cuba
+india	commonbloc1	poland
+india	commonbloc1	china
+netherlands	commonbloc1	burma
+burma	commonbloc1	brazil
+egypt	commonbloc1	uk
+brazil	commonbloc1	india
+egypt	commonbloc1	brazil
+indonesia	commonbloc1	netherlands
+israel	commonbloc1	netherlands

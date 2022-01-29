@@ -1,0 +1,4 @@
+indonesia	unoffialacts	usa
+india	unoffialacts	indonesia
+indonesia	unoffialacts	china
+ussr	unoffialacts	usa

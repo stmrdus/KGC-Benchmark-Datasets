@@ -1,0 +1,3 @@
+indonesia	accusation	uk
+usa	accusation	cuba
+china	accusation	uk

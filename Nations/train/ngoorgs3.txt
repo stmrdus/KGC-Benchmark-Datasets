@@ -1,0 +1,14 @@
+poland	ngoorgs3	ussr
+israel	ngoorgs3	brazil
+cuba	ngoorgs3	israel
+usa	ngoorgs3	netherlands
+egypt	ngoorgs3	usa
+indonesia	ngoorgs3	netherlands
+indonesia	ngoorgs3	india
+netherlands	ngoorgs3	india
+jordan	ngoorgs3	usa
+egypt	ngoorgs3	brazil
+egypt	ngoorgs3	netherlands
+burma	ngoorgs3	israel
+usa	ngoorgs3	uk
+jordan	ngoorgs3	netherlands

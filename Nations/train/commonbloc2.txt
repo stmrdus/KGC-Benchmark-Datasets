@@ -1,0 +1,5 @@
+poland	commonbloc2	ussr
+indonesia	commonbloc2	burma
+jordan	commonbloc2	indonesia
+egypt	commonbloc2	india
+netherlands	commonbloc2	uk

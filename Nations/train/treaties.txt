@@ -1,0 +1,4 @@
+netherlands	treaties	usa
+burma	treaties	china
+egypt	treaties	china
+egypt	treaties	indonesia
