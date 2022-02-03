@@ -3,7 +3,7 @@ import numpy as np
 from argparse import ArgumentParser
 
 parser = ArgumentParser("Python scirpt for OpenKE dataset initialization.")
-parser.add_argument("--folder", default="FB15K-237",
+parser.add_argument("--folder", default="FB122/",
                     help="Name of dataset folder.")
 args = parser.parse_args()
 print(args)
@@ -46,7 +46,7 @@ def getID(folder='FB122/'):
                      '\t' + str(line[2]) + '\n')
         print("Size of VALID_marked set set ", count)
 
-    with open(folder + 'test.txt') as f, open(folder + 'test_marked.txt', 'w') as f2:
+    with open(folder + 'testI.txt') as f, open(folder + 'test_marked.txt', 'w') as f2:
         count = 0
         for line in f:
             line = line.strip().split()
@@ -80,16 +80,17 @@ print("[LOG] Init entity and relation id.")
 getID(folder=args.folder)
 
 print("[LOG] Read entity and relation id.")
-entity2id = pd.read_table("FB122/entity2id.txt", header=None, sep='\t')
-relation2id = pd.read_table("FB122/relation2id.txt", header=None, sep='\t')
+entity2id = pd.read_table(args.folder+"entity2id.txt", header=None, sep='\t')
+relation2id = pd.read_table(
+    args.folder+"relation2id.txt", header=None, sep='\t')
 
 print("[LOG] Read train, test and validation set.")
 train = pd.read_table(args.folder+"/train.txt", header=None, sep='\t')
-test = pd.read_table(args.folder+"/test.txt", header=None, sep='\t')
+test = pd.read_table(args.folder+"/testII.txt", header=None, sep='\t')
 valid = pd.read_table(args.folder+"/valid.txt", header=None, sep='\t')
 
 train[[1, 2]] = train[[2, 1]]
-test[[1, 2]] = test[[2, 1]]
+valid[[1, 2]] = valid[[2, 1]]
 test[[1, 2]] = test[[2, 1]]
 
 d = dict(zip(relation2id[0].values, relation2id[1].values))
@@ -104,9 +105,26 @@ def mapping(data):
     data[2] = data[2].map(d)
 
 
-train.to_csv((args.folder+"/train2id.txt"), header=None, index=None, sep=" ")
-valid.to_csv((args.folder+"/valid2id.txt"), header=None, index=None, sep=" ")
-test.to_csv((args.folder+"/test2id.txt"), header=None, index=None, sep=" ")
+mapping(train)
+mapping(valid)
+mapping(test)
+
+train_file = open(args.folder+"/train2id.txt", "w")
+train_file.write("%d\n" % (train.shape[0]))
+train.to_csv(train_file, header=None, index=None, sep=" ", mode='a')
+train_file.close()
+
+valid_file = open(args.folder+"/valid2id.txt", "w")
+valid_file.write("%d\n" % (valid.shape[0]))
+valid.to_csv(valid_file, header=None, index=None, sep=" ", mode='a')
+valid_file.close()
+
+#
+test_file = open(args.folder+"/test2id.txt", "w")
+test_file.write("%d\n" % (test.shape[0]))
+test.to_csv(test_file, header=None, index=None, sep=" ", mode='a')
+test_file.close()
+
 
 lef = {}
 rig = {}
@@ -117,7 +135,9 @@ triple = open(args.folder+"train2id.txt", "r")
 valid = open(args.folder+"valid2id.txt", "r")
 test = open(args.folder+"test2id.txt", "r")
 
+print("[LOG] Training file reading ... ")
 tot = (int)(triple.readline())
+print("[LOG] Total training file: {}".format(tot))
 for i in range(tot):
     content = triple.readline()
     h, t, r = content.strip().split()
@@ -134,7 +154,9 @@ for i in range(tot):
     rellef[r][h] = 1
     relrig[r][t] = 1
 
+print("[LOG] Validation file reading ...")
 tot = (int)(valid.readline())
+print("[LOG] Total validation file: {}".format(tot))
 for i in range(tot):
     content = valid.readline()
     h, t, r = content.strip().split()
@@ -151,7 +173,9 @@ for i in range(tot):
     rellef[r][h] = 1
     relrig[r][t] = 1
 
+print("[LOG] Test file reading ... ")
 tot = (int)(test.readline())
+print("[LOG] Total test file: {}".format(tot))
 for i in range(tot):
     content = test.readline()
     h, t, r = content.strip().split()
@@ -172,6 +196,7 @@ test.close()
 valid.close()
 triple.close()
 
+print("[LOG] Type constraint processing ... ")
 f = open(args.folder+"type_constrain.txt", "w")
 f.write("%d\n" % (len(rellef)))
 for i in rellef:
@@ -226,7 +251,7 @@ for i in range(tot):
         snn += 1
 f.close()
 
-
+print("[LOG] Relational type processing ...")
 f = open(args.folder+"test2id.txt", "r")
 f11 = open(args.folder+"1-1.txt", "w")
 f1n = open(args.folder+"1-n.txt", "w")
@@ -262,3 +287,4 @@ f11.close()
 f1n.close()
 fn1.close()
 fnn.close()
+print("[LOG] Shutdown processing ...")
