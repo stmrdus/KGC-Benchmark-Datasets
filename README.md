@@ -52,3 +52,9 @@ Add more dataset
 ## Acknowledgments
 
 [research.lpca](https://github.com/merialdo/research.lpca): project analyzes the results of various models for Link Prediction on Knowledge Graphs using Knowledge Graph Embeddings
+
+[RotatE](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding): Knowledge Graph Embedding by Relational Rotation in Complex Space
+
+[OpenKE-PyTorch](https://github.com/thunlp/OpenKE): An Open-Source Package for Knowledge Embedding (KE)
+
+[Multi-relational Poincaré Graph Embeddings](https://github.com/ibalazevic/multirelational-poincare)
