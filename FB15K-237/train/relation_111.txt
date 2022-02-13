@@ -1,6 +1,0 @@
-/m/01_c4	/location/administrative_division/country	/m/07ssc
-/m/02wmy	/location/administrative_division/country	/m/02wmy
-/m/01rwf_	/location/administrative_division/country	/m/07ssc
-/m/01_c4	/location/administrative_division/country	/m/07ssc
-/m/02wmy	/location/administrative_division/country	/m/02wmy
-/m/01rwf_	/location/administrative_division/country	/m/07ssc

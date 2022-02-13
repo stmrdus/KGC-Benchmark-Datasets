@@ -1,2 +1,0 @@
-cell_component	conceptual_part_of	body_system
-cell_component	conceptual_part_of	body_system

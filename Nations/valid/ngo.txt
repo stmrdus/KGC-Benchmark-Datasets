@@ -1,3 +1,0 @@
-netherlands	ngo	india
-poland	ngo	india
-uk	ngo	poland

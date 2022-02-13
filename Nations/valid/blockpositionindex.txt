@@ -1,4 +1,0 @@
-ussr	blockpositionindex	uk
-ussr	blockpositionindex	burma
-usa	blockpositionindex	ussr
-burma	blockpositionindex	usa

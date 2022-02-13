@@ -1,2 +1,0 @@
-person8	term14	person21
-person78	term14	person17

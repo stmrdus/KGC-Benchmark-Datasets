@@ -1,1 +1,0 @@
-molecular_biology_research_technique	method_of	diagnostic_procedure

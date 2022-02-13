@@ -1,3 +1,0 @@
-usa	militaryalliance	netherlands
-usa	militaryalliance	uk
-indonesia	militaryalliance	usa

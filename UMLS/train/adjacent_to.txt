@@ -1,2 +1,0 @@
-tissue	adjacent_to	body_space_or_junction
-tissue	adjacent_to	body_space_or_junction

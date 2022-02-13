@@ -1,8 +1,0 @@
-jordan	reltreaties	indonesia
-burma	reltreaties	china
-india	reltreaties	usa
-poland	reltreaties	ussr
-egypt	reltreaties	poland
-cuba	reltreaties	uk
-indonesia	reltreaties	china
-cuba	reltreaties	china

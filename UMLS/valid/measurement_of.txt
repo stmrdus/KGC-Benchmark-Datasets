@@ -1,5 +1,0 @@
-quantitative_concept	measurement_of	physiologic_function
-laboratory_or_test_result	measurement_of	food
-organism_attribute	measurement_of	mental_process
-quantitative_concept	measurement_of	mental_process
-organism_attribute	measurement_of	molecular_function

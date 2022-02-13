@@ -1,4 +1,0 @@
-uk	tourism3	egypt
-netherlands	tourism3	uk
-netherlands	tourism3	ussr
-cuba	tourism3	ussr

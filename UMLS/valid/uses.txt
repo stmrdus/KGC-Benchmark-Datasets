@@ -1,6 +1,0 @@
-population_group	uses	medical_device
-professional_or_occupational_group	uses	manufactured_object
-population_group	uses	regulation_or_law
-diagnostic_procedure	uses	drug_delivery_device
-patient_or_disabled_group	uses	research_device
-professional_or_occupational_group	uses	drug_delivery_device

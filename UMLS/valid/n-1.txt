@@ -1,4 +1,0 @@
-amino_acid_peptide_or_protein	ingredient_of	clinical_drug
-body_part_organ_or_organ_component	conceptual_part_of	body_system
-element_ion_or_isotope	ingredient_of	clinical_drug
-body_substance	conceptual_part_of	body_system

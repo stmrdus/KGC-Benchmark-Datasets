@@ -1,3 +1,0 @@
-laboratory_or_test_result	indicates	organ_or_tissue_function
-laboratory_or_test_result	indicates	mental_process
-immunologic_factor	indicates	neoplastic_process

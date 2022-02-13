@@ -1,4 +1,0 @@
-cuba	dependent	usa
-jordan	emigrants3	usa
-uk	relstudents	usa
-israel	eemigrants	usa

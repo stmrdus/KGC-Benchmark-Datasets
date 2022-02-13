@@ -1,6 +1,0 @@
-/m/04sry	/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	/m/01jdpf
-/m/01vrz41	/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	/m/01jdpf
-/m/08cn_n	/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	/m/01jdpf
-/m/04sry	/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	/m/01jdpf
-/m/01vrz41	/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	/m/01jdpf
-/m/08cn_n	/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	/m/01jdpf

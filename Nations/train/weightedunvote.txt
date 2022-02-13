@@ -1,7 +1,0 @@
-poland	weightedunvote	netherlands
-usa	weightedunvote	israel
-poland	weightedunvote	uk
-usa	weightedunvote	cuba
-uk	weightedunvote	cuba
-usa	weightedunvote	ussr
-jordan	weightedunvote	uk

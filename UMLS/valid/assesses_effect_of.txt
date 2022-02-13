@@ -1,5 +1,0 @@
-laboratory_procedure	assesses_effect_of	genetic_function
-laboratory_procedure	assesses_effect_of	element_ion_or_isotope
-diagnostic_procedure	assesses_effect_of	element_ion_or_isotope
-laboratory_procedure	assesses_effect_of	disease_or_syndrome
-diagnostic_procedure	assesses_effect_of	vitamin

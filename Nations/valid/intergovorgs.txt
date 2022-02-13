@@ -1,8 +1,0 @@
-india	intergovorgs	israel
-india	intergovorgs	egypt
-brazil	intergovorgs	cuba
-poland	intergovorgs	israel
-netherlands	intergovorgs	indonesia
-israel	intergovorgs	egypt
-india	intergovorgs	burma
-brazil	intergovorgs	poland

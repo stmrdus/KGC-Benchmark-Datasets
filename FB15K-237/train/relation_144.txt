@@ -1,4 +1,0 @@
-/m/0d8lm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/085jw
-/m/085jw	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0d8lm
-/m/0d8lm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/085jw
-/m/085jw	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0d8lm

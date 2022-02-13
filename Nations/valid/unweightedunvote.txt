@@ -1,2 +1,0 @@
-usa	unweightedunvote	israel
-uk	unweightedunvote	jordan

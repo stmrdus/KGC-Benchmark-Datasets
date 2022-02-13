@@ -1,8 +1,0 @@
-/m/0jnng	/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	/m/02qvl7
-/m/0j2zj	/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	/m/02qvdc
-/m/0jnr_	/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	/m/02qvzf
-/m/04l5b4	/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	/m/02qvzf
-/m/0jnng	/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	/m/02qvl7
-/m/0j2zj	/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	/m/02qvdc
-/m/0jnr_	/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	/m/02qvzf
-/m/04l5b4	/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	/m/02qvzf

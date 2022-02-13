@@ -1,8 +1,0 @@
-age_group	performs	machine_activity
-family_group	performs	therapeutic_or_preventive_procedure
-population_group	performs	daily_or_recreational_activity
-family_group	performs	laboratory_procedure
-age_group	performs	social_behavior
-professional_or_occupational_group	performs	diagnostic_procedure
-age_group	performs	daily_or_recreational_activity
-family_group	performs	research_activity

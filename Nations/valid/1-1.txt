@@ -1,6 +1,0 @@
-israel	violentactions	jordan
-indonesia	militaryactions	china
-uk	violentactions	indonesia
-china	duration	india
-jordan	warning	israel
-india	militaryactions	china

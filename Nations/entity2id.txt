@@ -1,0 +1,14 @@
+netherlands	0
+uk	1
+egypt	2
+usa	3
+jordan	4
+poland	5
+ussr	6
+india	7
+china	8
+cuba	9
+indonesia	10
+israel	11
+brazil	12
+burma	13

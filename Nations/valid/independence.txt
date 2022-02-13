@@ -1,6 +1,0 @@
-usa	independence	china
-ussr	independence	china
-cuba	independence	usa
-poland	independence	uk
-egypt	independence	brazil
-egypt	independence	usa

@@ -1,9 +1,0 @@
-ussr	relngo	poland
-uk	relngo	usa
-indonesia	relngo	cuba
-israel	relngo	usa
-israel	relngo	india
-jordan	relngo	brazil
-indonesia	relngo	usa
-burma	relngo	israel
-jordan	relngo	usa

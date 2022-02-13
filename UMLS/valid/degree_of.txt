@@ -1,4 +1,0 @@
-mental_or_behavioral_dysfunction	degree_of	disease_or_syndrome
-mental_or_behavioral_dysfunction	degree_of	cell_or_molecular_dysfunction
-disease_or_syndrome	degree_of	cell_or_molecular_dysfunction
-cell_or_molecular_dysfunction	degree_of	neoplastic_process

@@ -1,3 +1,0 @@
-laboratory_or_test_result	evaluation_of	genetic_function
-qualitative_concept	evaluation_of	individual_behavior
-qualitative_concept	evaluation_of	activity
