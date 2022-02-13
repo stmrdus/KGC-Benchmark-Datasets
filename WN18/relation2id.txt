@@ -1,3 +1,4 @@
+18
 _hyponym	0
 _hypernym	1
 _member_holonym	2

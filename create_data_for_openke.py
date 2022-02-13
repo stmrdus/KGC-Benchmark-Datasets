@@ -64,12 +64,16 @@ def getID(folder='FB122/'):
         print("Size of test_marked set set ", count)
 
     wri = open(folder + 'entity2id.txt', 'w')
+    wri.write(str(len(lstEnts)))
+    wri.write('\n')
     for entity in lstEnts:
         wri.write(entity + '\t' + str(lstEnts[entity]))
         wri.write('\n')
     wri.close()
 
     wri = open(folder + 'relation2id.txt', 'w')
+    wri.write(str(len(lstRels)))
+    wri.write('\n')
     for entity in lstRels:
         wri.write(entity + '\t' + str(lstRels[entity]))
         wri.write('\n')
@@ -80,9 +84,8 @@ print("[LOG] Init entity and relation id.")
 getID(folder=args.folder)
 
 print("[LOG] Read entity and relation id.")
-entity2id = pd.read_table(args.folder+"entity2id.txt", header=None, sep='\t')
-relation2id = pd.read_table(
-    args.folder+"relation2id.txt", header=None, sep='\t')
+entity2id = pd.read_table(args.folder+"entity2id.txt", header=None, sep='\t', skiprows=1)
+relation2id = pd.read_table(args.folder+"relation2id.txt", header=None, sep='\t', skiprows=1)
 
 print("[LOG] Read train, test and validation set.")
 train = pd.read_table(args.folder+"/train.txt", header=None, sep='\t')
